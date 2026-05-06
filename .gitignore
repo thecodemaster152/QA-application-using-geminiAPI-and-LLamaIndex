@@ -1,0 +1,16 @@
+# Vector store / LlamaIndex storage
+notebook/storage/
+*.json
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Env file
+.env
